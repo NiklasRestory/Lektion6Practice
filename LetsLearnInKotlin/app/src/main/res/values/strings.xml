@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LetsLearnInKotlin</string>
+    <string name="txt_linear">Linear</string>
+    <string name="feadsfwsfvq">Settingsa</string>
+    <string name="TextSettings">Settings</string>
+    <string name="TextAddContact">Add Contact</string>
+    <string name="TextFavorites">Favorites</string>
+    <string name="TextFeedback">Feedback</string>
+    <string name="TextClose">Close</string>
+    <string name="TextDialog1">Dialog1</string>
+    <string name="TextDialog2">Dialog2</string>
+    <string name="TextDialog3">Dialog3</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
